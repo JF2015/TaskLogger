@@ -1,0 +1,13 @@
+C:\Users\jfiedle\Dropbox\Software\TaskLogger\TaskLogger\bin\Release\TaskLogger.exe.config
+C:\Users\jfiedle\Dropbox\Software\TaskLogger\TaskLogger\bin\Release\TaskLogger.exe
+C:\Users\jfiedle\Dropbox\Software\TaskLogger\TaskLogger\bin\Release\TaskLogger.pdb
+C:\Users\jfiedle\Dropbox\Software\TaskLogger\TaskLogger\bin\Release\System.Windows.Forms.DataVisualization.Design.dll
+C:\Users\jfiedle\Dropbox\Software\TaskLogger\TaskLogger\bin\Release\System.Windows.Forms.DataVisualization.dll
+C:\Users\jfiedle\Dropbox\Software\TaskLogger\TaskLogger\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jfiedle\Dropbox\Software\TaskLogger\TaskLogger\obj\Release\TaskLoggerApplication.ChartForm.resources
+C:\Users\jfiedle\Dropbox\Software\TaskLogger\TaskLogger\obj\Release\TaskLoggerApplication.MainForm.resources
+C:\Users\jfiedle\Dropbox\Software\TaskLogger\TaskLogger\obj\Release\TaskLoggerApplication.Properties.Resources.resources
+C:\Users\jfiedle\Dropbox\Software\TaskLogger\TaskLogger\obj\Release\ResGen.read.1.tlog
+C:\Users\jfiedle\Dropbox\Software\TaskLogger\TaskLogger\obj\Release\ResGen.write.1.tlog
+C:\Users\jfiedle\Dropbox\Software\TaskLogger\TaskLogger\obj\Release\TaskLogger.exe
+C:\Users\jfiedle\Dropbox\Software\TaskLogger\TaskLogger\obj\Release\TaskLogger.pdb
